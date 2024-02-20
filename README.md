@@ -3,7 +3,8 @@ Brain Computer Interface: Deep Learning Approach to Predict Human Emotion Recogn
 
 
 
-Main Article:
+Main Article: https://ieeexplore.ieee.org/document/9945554
+
 
 ## Dataset Link
 
